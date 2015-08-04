@@ -56,3 +56,4 @@ docs/_build/
 # PyBuilder
 target/
 scope_settings.xml
+Visualizer.iml
