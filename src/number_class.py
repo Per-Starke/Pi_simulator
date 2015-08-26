@@ -20,7 +20,4 @@ class Number(object):
             is_number = False
         return is_number
 
-pi = Number("3.141 59265 359")
 
-list_of_pi_numbers = pi.numbers_in_list()
-print(list_of_pi_numbers) 
